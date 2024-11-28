@@ -6,7 +6,6 @@ export default function Home() {
     <>
      <div className="border border-1 rounded-md bg-blue-500 border-blue-900 w-[1080px] mx-auto mt-[20px] p-[20px] flex items-center justify-center text-[25px] font-[600] hover:bg-blue-700 cursor-pointer" >Hello world</div>
     <Hello/>
-    div
     </>
   );
 }   
